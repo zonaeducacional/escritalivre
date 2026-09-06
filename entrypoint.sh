@@ -34,7 +34,7 @@ port     = 0
 [app]
 site_name             = Escrita Livre
 site_description      = Espaço de reflexão, filosofia e literatura
-host                  = http://escritalivre.lvh.me:8080
+host                  = https://escrita.zonaeducacional.org
 theme                 = write
 editor                = 
 disable_registration  = false
