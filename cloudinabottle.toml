@@ -1,0 +1,11 @@
+[app]
+name = "escritalivre"
+version = "0.1.0"
+description = "Escrita Livre - Plataforma Minimalista de Ensaios e Filosofia (WriteFreely)"
+
+[runtime.container]
+image = "Dockerfile"
+port = 8080
+
+[resources]
+memory = "256MB"
