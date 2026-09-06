@@ -32,13 +32,14 @@ host     =
 port     = 0
 
 [app]
+single_user           = true
 site_name             = Escrita Livre
 site_description      = Espaço de reflexão, filosofia e literatura
 host                  = https://escrita.zonaeducacional.org
 theme                 = write
 editor                = 
-disable_registration  = false
-open_registration     = true
+disable_registration  = true
+open_registration     = false
 min_username_len      = 3
 max_blogs             = 5
 federation            = true
